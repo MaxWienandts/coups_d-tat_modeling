@@ -1,8 +1,8 @@
 # coups_d-tat_modeling
-Autumn Dorsey
-Loralee Ryan
-Max Wienandts
-Ronan Fonseca
+- Autumn Dorsey
+- Loralee Ryan
+- Max Wienandts
+- Ronan Fonseca
 
 This study tries to determine the most relevant factors for predicting coups d’état using data for 943 coup
 events from 1945 to 2019, using four different modeling techniques, logistic regression, decision trees,
@@ -17,6 +17,7 @@ them considered the presence of a dissident group as a coup initiator to be far 
 other predictors.
 
 Motivation and Context
+
 Coups are political events that significantly change the course of a country and its people. The
 overt-hrowing of the current government can signify the beginning of free, peaceful times, or the
 beginning of authoritarian periods marked by human rights violations. Given their impact, and the fact
@@ -26,5 +27,7 @@ can predict those that will happen in the future. This study is particularly mea
 this group, given the tumultuous processes for the latest presidential elections in Brazil and the United
 States.
 
-Problem Statement: Our problem statement is: Which variables are most important to
+Problem Statement:
+
+Our problem statement is: Which variables are most important to
 have a successful coup?
